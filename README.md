@@ -4,16 +4,6 @@ Overview
 This repository contains five C++ programs implementing key data structures and algorithmic concepts.
 Each question focuses on a different structure — recursion, linked lists, stacks, queues, and algorithm analysis — designed around real-world simulation scenarios.
 
-All programs are written with:
-
-No camel casing
-
-No comments inside the code (for simplicity)
-
-Use of only <iostream>
-
-Clean, minimal logic and output clarity
-
  Question 1 – Recursion: Change Location in Char Array
 
 File: q1_changelocation.cpp
